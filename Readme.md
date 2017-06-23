@@ -4,7 +4,7 @@ go to kernel root source
 
 open terminal and type
 
-export CROSS_COMPILE=/home/hardik/Documents/ndk/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-
+export CROSS_COMPILE=~/Documents/ndk/toolchains/aarch64-linux-android-4.9/prebuilt/linux-x86_64/bin/aarch64-linux-android-
 
 
 make clean && make mrproper
